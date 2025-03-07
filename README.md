@@ -20,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-</div>
-<div>
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRkZWhzanJmcmp2c3JxdW50ZDMzdHF0MmRyajdqc3M4NG42Z3FtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif"  />
 </div>
 
