@@ -11,7 +11,7 @@
 ## 🔧 Tech Stack
 
 <div align="left">
-  <img align="right" height="152" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRkZWhzanJmcmp2c3JxdW50ZDMzdHF0MmRyajdqc3M4NG42Z3FtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif"  />
+  <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRkZWhzanJmcmp2c3JxdW50ZDMzdHF0MmRyajdqc3M4NG42Z3FtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -45,10 +45,6 @@
   <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
   </a>
-</div>
-<div>
-![Snake animation](svg/output.svg)
-
 </div>
 
 ---
