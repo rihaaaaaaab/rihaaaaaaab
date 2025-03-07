@@ -22,7 +22,7 @@
 </div>
 <br>
 ---
-<br>
+
 <br>
 ## 📊 GitHub Stats
 <div align="left">
