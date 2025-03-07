@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
   </a>
 </div>
+![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
 
 ---
 
